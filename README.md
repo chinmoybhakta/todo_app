@@ -1,6 +1,6 @@
 # basic_todo_app
 
-A new Flutter project using riverpod
+A new Flutter project using riverpod generator and freezed model
 
 ## Getting Started
 
